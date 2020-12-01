@@ -2,16 +2,16 @@ Project name: Scientific + Programming GUI Calculator
 Description : This calculator can be used to calculate the standard, scientific and programming calculation
 Type of app: Stand-alone application for desktop and laptop computers 
 Main features:
--	Can perform arithmetic operations 
--	Can calculate using decimal points
--	Can calculate square root
--	Can calculate logarithmic operations
--	Can calculate trigonometric operations
--	Can calculate factorial of a number
--	Can calculate powers and exponents of numbers
--	Can convert a decimal number to binary, hexadecimal and octal
--	Can convert a number with a decimal point to a round figure
--	Can remove a number using backspace
+-	 perform arithmetic operations 
+-	 calculate using decimal points
+-	 calculate square root
+-	 calculate logarithmic operations
+-	 calculate trigonometric operations
+-	 calculate factorial of a number
+-	 calculate powers and exponents of numbers
+-	 convert a decimal number to binary, hexadecimal and octal
+-	 convert a number with a decimal point to a round figure
+-	 remove a number using backspace
 
 Operating system: Windows/Linux/Max OS
 How to use:
